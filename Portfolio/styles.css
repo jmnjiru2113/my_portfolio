@@ -1,0 +1,71 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("background image/v617batch2-kul-05-technology.jpg");
+    background-size: cover;
+    background-position: left top;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Georgia", serif;
+       padding: 30px;
+}
+
+header img {
+    border-radius: 50%;
+    border: 3px solid white;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    font-size: 18px;
+    font-weight: 200;
+    font-family: "Times New Roman", serif;
+    text-align: left;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 600px;
+    border-radius: 10px;
+}
+
+h2 {
+    color: #007bff;
+}
+
+li {
+    margin: 10px;
+}
+
+button {
+    background-color: #25D366;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #128C7E;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+footer {
+     color: white;
+    padding: 15px;
+}
